@@ -62,3 +62,8 @@ typings/
 
 # next.js build output
 .next
+
+# .env
+AUTH0_CLIENT_ID=io66WiCItyCR49s48jC9jG5gBwgtFV8a
+AUTH0_DOMAIN=dev-q4aq7tpj.us.auth0.com
+AUTH0_CLIENT_SECRET=YOUR_CLIENT_SECRET
